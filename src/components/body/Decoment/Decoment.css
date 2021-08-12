@@ -1,0 +1,29 @@
+.docp{
+   display: flex;
+   /* flex-direction: row; */
+   /* flex-wrap: wrap; */
+   justify-content: space-evenly;
+
+   margin-bottom: 100px;
+   
+}
+
+/* h5{
+  
+    display: flex;
+    flex-direction:row-reverse
+} */
+
+/* .child123{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+} */
+
+/* .dc123{
+    border-left: 1px white solid;
+    border-bottom: 1px white solid;
+    border-right: 1px white solid;
+    padding: 10px;
+} */
+
